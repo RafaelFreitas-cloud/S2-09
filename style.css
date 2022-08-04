@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.title-main{
+    color: black;
+}
+
+.background-blue{
+    background-color: blue;
+    color: white;
+}
+
+.color-blue{
+    color: blue;
+}
+
+.background-black{
+    background-color: black;
+    color: white;
+}
+
+.text-center{
+    text-align: center;
+}
+
+li{
+    text-decoration: underline;
+}
