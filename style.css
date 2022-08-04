@@ -27,3 +27,8 @@ body{
 li{
     text-decoration: underline;
 }
+
+.box{
+    height: 40px;
+    width: 100%;
+}
